@@ -120,8 +120,14 @@ npm run dev
 
 
 
+
 ## .  
 
 
+## Contributors 👷👷:  
 
+### Himanshu 
+### Chaman Yadav  
+### Gaurav Raghuvanshi  
+### Aviral Tiwari   
 
